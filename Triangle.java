@@ -22,7 +22,7 @@ public class Triangle
     public Triangle()
     {
         height = 60;
-        width = 70;
+        width = 90;
         xPosition = 210;
         yPosition = 140;
         color = "green";
